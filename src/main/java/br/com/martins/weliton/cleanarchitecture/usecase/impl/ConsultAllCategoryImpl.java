@@ -5,7 +5,7 @@ import br.com.martins.weliton.cleanarchitecture.usecase.ConsultAllCategory;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import br.com.martins.weliton.cleanarchitecture.gateway.DBGateway;
+import br.com.martins.weliton.cleanarchitecture.adapter.gateway.DBGateway;
 
 import java.util.List;
 

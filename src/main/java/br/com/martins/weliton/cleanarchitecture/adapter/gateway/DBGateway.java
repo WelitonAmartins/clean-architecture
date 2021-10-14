@@ -1,4 +1,4 @@
-package br.com.martins.weliton.cleanarchitecture.gateway;
+package br.com.martins.weliton.cleanarchitecture.adapter.gateway;
 
 import br.com.martins.weliton.cleanarchitecture.domain.Category;
 

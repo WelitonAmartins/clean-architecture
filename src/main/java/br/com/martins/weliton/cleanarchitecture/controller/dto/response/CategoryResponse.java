@@ -1,4 +1,4 @@
-package br.com.martins.weliton.cleanarchitecture.controller.data.response;
+package br.com.martins.weliton.cleanarchitecture.controller.dto.response;
 
 import lombok.*;
 

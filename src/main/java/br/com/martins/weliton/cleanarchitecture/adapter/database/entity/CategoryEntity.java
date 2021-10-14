@@ -1,4 +1,4 @@
-package br.com.martins.weliton.cleanarchitecture.gateway.repository.data;
+package br.com.martins.weliton.cleanarchitecture.adapter.database.entity;
 
 import lombok.*;
 
